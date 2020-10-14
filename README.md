@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/23AKAussXpPbA8U2fn/giphy.gif)
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
